@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xsorna" alt="0xsorna" /></a> </p>
 
-- 🔭 I’m currently working on **Tamil Classics**
+- 🔭 I’m currently working on **Wenoxo Technologies**
 
 - 🌱 I’m currently learning **Web Scraping,Flutter**
 
